@@ -1,5 +1,5 @@
 {
-    "name": "selenium-to-playwright-converter",
+    "name": "seleniumtoplaywrightconverter",
     "compatibility_date": "2026-01-31",
     "assets": {
         "directory": "./dist"
